@@ -1,2 +1,2 @@
 # HumanClassification
-Classifying humans based on their attire
+Classifying humans based on their attire using machine learning techniques.
